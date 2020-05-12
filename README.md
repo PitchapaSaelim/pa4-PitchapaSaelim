@@ -7,6 +7,7 @@
     
 Dragon Tiger Game is about as simple as gambling gets. It is basically a two-card version of baccarat. To be more specific, two cards are drawn, one to the Dragon and one to the Tiger. The player bets on which one will be higher. There are also some proposition bets on the individual cards. The game is rumored to be found in Cambodia.
 
+
 ![pa4-PitchapaSaelim](dragontiger.gif)
 
 

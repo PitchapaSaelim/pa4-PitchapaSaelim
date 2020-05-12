@@ -45,7 +45,7 @@ Dragon Tiger Game is about as simple as gambling gets. It is basically a two-car
                          * Suppose that “A” is equal to 1 and suit has no effect. *
 
 
-### How to run JAR file.
+### How to run JAR file
 
 * Open the command line window.
 
